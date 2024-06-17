@@ -1,0 +1,32 @@
+
+INFO - 2024-04-07 11:56:49.629 - Line 56: 11:56:49:629977: Starting rebel_placer
+
+
+INFO - 2024-04-07 11:59:25.522 - Line 56: 11:59:25:522841: Starting rebel_placer
+
+INFO - 2024-04-07 12:00:44.750 - Line 56: Reloading bet365
+
+INFO - 2024-04-07 12:01:30.145 - Line 56: Couldn't find element for CSS selector: '.hm-Balance'
+INFO - 2024-04-07 12:01:30.156 - Line 56: 12:01:30:156995: Scanning for new bets
+INFO - 2024-04-07 12:01:31.405 - Line 56: Logging in to Rebel Betting for phoenixwedge82
+INFO - 2024-04-07 12:01:35.313 - Line 56: Logging in to Rebel Betting for phoenixwedge82
+
+INFO - 2024-04-07 13:04:35.575 - Line 56: 13:04:35:575047: Starting rebel_placer
+
+INFO - 2024-04-07 13:05:50.027 - Line 56: Reloading bet365
+
+
+INFO - 2024-04-07 13:09:09.342 - Line 56: 13:09:09:342238: Starting rebel_placer
+
+
+INFO - 2024-04-07 13:13:19.495 - Line 56: 13:13:19:495151: Starting rebel_placer
+
+
+INFO - 2024-04-07 13:14:32.517 - Line 56: 13:14:32:517974: Starting rebel_placer
+
+
+INFO - 2024-04-07 13:15:13.505 - Line 56: 13:15:13:505014: Starting rebel_placer
+
+
+INFO - 2024-04-07 13:15:59.539 - Line 56: 13:15:59:539846: Starting rebel_placer
+

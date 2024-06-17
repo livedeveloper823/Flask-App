@@ -1,0 +1,29 @@
+How to setup:
+Install Python 3.9 (not the latest version 3.10+ as that won't work) if it is not already installed: https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe
+Make sure you check the "Add Python to PATH" box when you run the installer
+
+Install Chrome if not already installed: https://www.google.com/intl/en_uk/chrome/
+
+Install Windows Terminal from the Windows store
+
+Extract the files from the zip to a new folder.
+
+Set bet365 account username, password, bet365_url and Rebel Betting email and password in rebel_placer.ini. Change minimum_value_percentage, maximum_value_percentage & max_stake to match the settings you have on Rebel.
+
+Run "Start Rebel placers.bat", this will start Chrome windows for all the placers.
+
+If you only want to use one account, delete 2.ini.
+
+To set up multiple accounts, copy and paste 2.ini and rename it to 3.ini. Change the bet365 account in 3.ini, close windows terminal and run "Start Rebel placers.bat" again. Repeat for 4.ini and so on.
+
+When the bots are running, all windows should be visible. Don't use the browser, just let it run. If you need to use a browser open your browser normally. All of the browser windows shouldn't have any other windows maximised in front of them.
+
+Using an anti detect browser:
+To use Dolphin Anty create/edit a profile and copy the ID from the Dolphin profile to the dolphin_profile_id setting in rebel_placer.ini or 2.ini. Use a separate profile for each account and if you change the account create a new profile. Dolphin Anty should be opened before you run the bot. Dolphin Anty should be opened before you run the bots.
+
+To use Incogniton create a profile and expand it with the dropdown arrow. Copy the profile ID to the incogniton_profile_id setting in rebel_placer.ini or 2.ini. Use a separate profile for each account and if you change the account create a new profile. Incogniton should be opened before you run the bots.
+
+To use Multilogin follow the steps here to enable the API - https://docs.multilogin.com/l/en/article/el0fuhynnz-a-quick-guide-to-starting-browser-automation. Click on the profile name in Multilogin and scroll the quick settings popup on the right down to the bottom until you can see the Profile ID. Copy the value to the multilogin_profile_id setting in rebel_placer.ini or 2.ini. Use a separate profile for each account and if you change the account create a new profile. Multilogin should be opened before you run the bots.
+
+If you encounter any issues send me a message and I will assist you (@xJxckk on Telegram).
+Jack

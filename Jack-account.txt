@@ -1,0 +1,16 @@
+photonreceptor@zohomail.eu
+Js9CX8XJ6JaG9ySWgld3
+
+
+my rebel login
+
+phoenixwedge82
+dQy4HDLwhrJQu8Wy5fhI
+
+bet365 login
+
+rebel_placer.ini is for the master
+
+2.ini is for the slave
+
+copy to 3.ini to run third slave
